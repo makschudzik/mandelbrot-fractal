@@ -22,7 +22,7 @@ Interactive visualization of the famous Mandelbrot fractal set built with HTML5 
 
 ## 🚀 Live Demo
 
-Visit the live demo: [Your GitHub Pages URL here]
+Visit the live demo: https://makschudzik.github.io/mandelbrot-fractal/
 
 ## 🛠️ Technical Details
 
